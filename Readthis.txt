@@ -1,0 +1,5 @@
+Well this is nice.
+Now you can read text files from terminal.
+You must feel so proud.
+
+Now go away.
